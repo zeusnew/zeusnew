@@ -33,3 +33,7 @@
 ### 🎨 **Visitors**
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ZEUS.profile)
 
+
+
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+
